@@ -55,7 +55,7 @@ Note: Knowing some of the limitations that HW has when importing is a must befor
   - **Export the FBX file**  
 
 ### **5. Locate Your Files**
-- Your exported files will be in:  <Blender_Project_Folder> / <ProjectName>_HW /  --- Where ever your project is saved, a new folder will appear there with _HW at the end.
+- Your exported files will be in:  <Blender_Project_Folder> / <ProjectName>_HW /          --- Where ever your project is saved, a new folder will appear there with _HW at the end.
 - This folder will contain:  
 - The **FBX file**  
 - The **baked textures** ('_BR.png' and '_MEO.png')  
