@@ -84,4 +84,4 @@ Note: Knowing some of the limitations that HW has when importing is a must befor
 
 ---
 
-**Blender and Meta Horizon Worlds hold their full rights to there software and names, all I did was write a simple add-on. You use this add-on at your own risk, and I probably will not be updating it any further.**
+**Blender and Meta Horizon Worlds hold their full rights to their software and names, all I did was write a simple add-on. You use this add-on at your own risk.*
