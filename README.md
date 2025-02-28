@@ -22,7 +22,7 @@ I will fully admit if you want to get fancy, you're still going to have to take 
 
 ## **Installation**
 1. **Download the add-on**  
-   - Click **Releases** on the rright→ **Download the latest release ZIP** on GitHub to a place an your computer you can find easily later.    
+   - Click **Releases** on the right→ **Download the latest release ZIP** on GitHub to a place an your computer you can find easily later.    
    - Do *NOT* extract the zip file.
    
 2. **Install in Blender**  
