@@ -29,7 +29,7 @@ I will fully admit if you want to get fancy, you're still going to have to take 
    - Open **Blender** → **Edit** → **Preferences** → **Add-ons**.  
    - Click **Install** and select the **ZIP file** you've just saved.  
    - Enable **Horizon Worlds Exporter** in the add-ons list. 
-   - Close Blender and re-open it again. (Otherwise it may not show for an object you own up directly afterwards)   
+   - Close Blender and re-open it again. (Otherwise it may not show up for an object you own directly afterwards)   
 
 ---
 
