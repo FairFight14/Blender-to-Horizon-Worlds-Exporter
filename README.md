@@ -43,8 +43,7 @@ I will fully admit if you want to get fancy, you're still going to have to take 
 - Navigate to the **Horizon Export** tab.  
 
 ### **3. Adjust Settings (Optional)**
-- **Decimate Ratio** – Adjust to reduce vertices count.  
-- **Apply Decimation** – Manually apply decimation if needed.  
+- **Decimate Ratio** – Adjust to reduce vertices count.   
 
 ### **4. Export**
 - Click **Export FBX** – The add-on will:  
@@ -79,7 +78,7 @@ If you like this project, consider buying me a coffee!
   - Check that you have a valid mesh selected.
   - Ensure the add-on is enabled in **Blender Preferences**.  
 
-- **Decimation doesn’t reduce the vertex count?**
+- **Decimation doesn’t reduce the vertices count?**
   - Adjust the **Decimate Ratio** before exporting.  
   - Manually apply decimation if needed.  
 
