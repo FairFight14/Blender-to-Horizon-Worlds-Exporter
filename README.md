@@ -63,15 +63,15 @@ Note: Knowing some of the limitations that HW has when importing is a must befor
 ---
 
 ## **Troubleshooting**
-- **No textures are being created?**  
+- **No textures are being created?**
   - Ensure your model has materials with image textures.  
   - Make sure materials are assigned properly.  
 
-- **Export button is missing?**  
-  - Check that you have a valid mesh selected.  
+- **Export button is missing?**
+  - Check that you have a valid mesh selected.
   - Ensure the add-on is enabled in **Blender Preferences**.  
 
-- **Decimation doesn’t reduce the vertex count?**  
+- **Decimation doesn’t reduce the vertex count?**
   - Adjust the **Decimate Ratio** before exporting.  
   - Manually apply decimation if needed.  
 
