@@ -16,7 +16,7 @@ I will fully admit if you want to get fancy, you're still going to have to take 
 
 ---
 
-Note: Knowing some of the limitations that HW has when importing is a must before you even start. How many files can be used per object, files sizes, etc. Otherwise you'll be shouting at your computer. I'm not stating numbers now, because things might change at a later date.
+**Note:** Knowing some of the limitations that HW has when importing is a must before you even start. How many files can be used per object, files sizes, etc. Otherwise you'll be shouting at your computer. I'm not stating numbers now, because things might change at a later date.
 
 ---
 
