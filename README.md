@@ -1,4 +1,4 @@
-# Meta Horizon Worlds Exporter  
+# Blender to Meta Horizon Worlds Exporter  
 
 A Blender add-on that prepares and exports 3D models for **Horizon Worlds** (HW).  
 This tool simplifies the process of optimizing, baking textures, and exporting FBX files. This isn't meant for experts. It's meant for people who are just wanting to get some objects and textures into HW very quickly.
