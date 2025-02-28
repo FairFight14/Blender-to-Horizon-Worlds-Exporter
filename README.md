@@ -62,6 +62,14 @@ Note: Knowing some of the limitations that HW has when importing is a must befor
 
 ---
 
+## ☕ Support My Work
+If you like this project, consider buying me a coffee!
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/fairfight14)
+
+
+---
+
 ## **Troubleshooting**
 - **No textures are being created?**
   - Ensure your model has materials with image textures.  
