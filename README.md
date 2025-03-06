@@ -8,8 +8,9 @@ I will fully admit if you want to get fancy, you're still going to have to take 
 ---
 
 ## **Features**
+✔️ **A simple renamer button with no baking**
 ✔️ **One-Click Export** – Automates the entire export process.  
-✔️ **Texture Baking** – Generates properly named **_BR** and **_MEO** textures.  
+✔️ **Texture Baking** – Generates properly named **_BR** and **_MEO** textures.  (Still testing for other needed names.)
 ✔️ **Decimation Tool** – Reduce vertex count using a slider.  
 ✔️ **UV Smart Unwrap** – Automatically creates UVs if missing.  
 ✔️ **FBX Export** – Ensures correct format for Horizon Worlds.  
@@ -34,6 +35,9 @@ I will fully admit if you want to get fancy, you're still going to have to take 
 ---
 
 ## **How to Use**
+
+## **0. Save your project with a name you're going to remember, and place on your computer you're going to rememember.
+
 ### **1. Select Your Object**
 - Ensure your object is a **mesh** (NURBS, curves, and text objects must be converted).  
 - If your object consists of multiple parts, select one part, then press `A` to select everything.  
@@ -45,7 +49,11 @@ I will fully admit if you want to get fancy, you're still going to have to take 
 ### **3. Adjust Settings (Optional)**
 - **Decimate Ratio** – Adjust to reduce vertices count.   
 
-### **4. Export**
+### **4. Rename or Export**
+- Click **Rename, Convert Textures & Export FBX**
+
+OR
+
 - Click **Export FBX** – The add-on will:  
   - **Apply transforms** (scale, rotation, location)  
   - **Apply modifiers**  
@@ -86,7 +94,7 @@ If you like this project, consider buying me a coffee!
 
 ## **Credits**
 **Author:** FairFight14  
-**Version:** 1.0.1  
+**Version:** 1.1.2  
 **License:** GNU GPL v3.0
 
 ---
