@@ -8,16 +8,16 @@ I will fully admit if you want to get fancy, you're still going to have to take 
 ---
 
 ## **Features**
-✔️ **A simple renamer button with no baking**
+✔️ **A simple renamer button** - Renaming with no baking  
 ✔️ **One-Click Export** – Automates the entire export process.  
-✔️ **Texture Baking** – Generates properly named **_BR** and **_MEO** textures.  (Still testing for other needed names.)
+✔️ **Texture Baking** – Generates properly named **_BR** and **_MEO** textures.  (Still testing for other needed names.)  
 ✔️ **Decimation Tool** – Reduce vertex count using a slider.  
 ✔️ **UV Smart Unwrap** – Automatically creates UVs if missing.  
 ✔️ **FBX Export** – Ensures correct format for Horizon Worlds.  
 
 ---
 
-**Note:** Knowing some of the limitations that HW has when importing is a must before you even start. Like how many files can be used per object, files sizes, etc, Otherwise you'll be shouting at your computer. I'm not stating numbers now, because things might change at a later date.
+**Note:** Knowing some of the limitations that HW has when importing is a **must** before you even start. Like how many files can be used per object, files sizes, etc, Otherwise you'll be shouting at your computer. I'm not stating numbers now, because things might change at a later date.
 
 ---
 
@@ -29,27 +29,29 @@ I will fully admit if you want to get fancy, you're still going to have to take 
 2. **Install in Blender**  
    - Open **Blender** → **Edit** → **Preferences** → **Add-ons**.  
    - Click **Install** and select the **ZIP file** you've just saved.  
-   - Enable **Horizon Worlds Exporter** in the add-ons list. 
-   - Close Blender and re-open it again. (Otherwise it may not show up for an object you own directly afterwards)   
+   - Enable **Horizon Worlds Exporter** in the add-ons list.
+   - Make sure the version number matches what you downloaded last. If it doesn't, uninstall it, and try again. You uninstall by just pressing the arrow where it says its name.
+   - Close Blender and re-open it again. (Otherwise it may not show up for an object you own directly afterwards)
 
 ---
 
 ## **How to Use**
 
-## **0. Save your project with a name you're going to remember, and place on your computer you're going to rememember.
+### **1. Save your project** 
+- Save your project with a name you're going to remember, and a place on your computer you're going to rememember. It's important!
 
-### **1. Select Your Object**
+### **2. Select Your Object**
 - Ensure your object is a **mesh** (NURBS, curves, and text objects must be converted).  
 - If your object consists of multiple parts, select one part, then press `A` to select everything.  
 
-### **2. Open the Export Panel**
+### **3. Open the Export Panel**
 - Press 'N' to open the **Side Panel** in the 3D View.  
 - Navigate to the **Horizon Export** tab.  
 
-### **3. Adjust Settings (Optional)**
+### **4. Adjust Settings (Optional)**
 - **Decimate Ratio** – Adjust to reduce vertices count.   
 
-### **4. Rename or Export**
+### **5. Rename or Export**
 - Click **Rename, Convert Textures & Export FBX**
 
 OR
@@ -61,7 +63,7 @@ OR
   - **Bake textures** (_BR and _MEO)  
   - **Export the FBX file**  
 
-### **5. Locate Your Files**
+### **6. Locate Your Files**
 - Your exported files will be in:  <Blender_Project_Folder> / <Project_Name>_HW /          --- Where ever your project is saved, a new folder will appear there with _HW at the end.
   - This folder will contain:  
   - The **FBX file**  
