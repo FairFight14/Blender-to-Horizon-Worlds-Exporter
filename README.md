@@ -8,7 +8,7 @@ I will fully admit if you want to get fancy, you're still going to have to take 
 ---
 
 ## **Features**
-✔️ **A simple renamer button** - Renaming with no baking  
+✔️ **A simple renamer button** - Renaming with no baking  --- Coming soon
 ✔️ **One-Click Export** – Automates the entire export process.  
 ✔️ **Texture Baking** – Generates properly named **_BR** and **_MEO** textures.  (Still testing for other needed names.)  
 ✔️ **Decimation Tool** – Reduce vertex count using a slider.  
