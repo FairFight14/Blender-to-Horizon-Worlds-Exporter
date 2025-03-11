@@ -1,3 +1,5 @@
+NOTE: A newer version is coming out soon. You might want to hold off until later. The current version works on really simple objects. Please let the news spread that a newer version is coming out very soon enough, and to check back daily.
+
 # Blender to Meta Horizon Worlds Exporter  
 
 A Blender add-on that prepares and exports 3D models for **Horizon Worlds** (HW).  
